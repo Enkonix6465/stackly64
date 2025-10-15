@@ -1,0 +1,1133 @@
+{
+  "nav": {
+    "home": "Home",
+    "home1": "Home 1",
+    "home2": "Home 2",
+    "about": "About Us",
+    "services": "Services",
+    "allServices": "All Services",
+    "webDesign": "Web Design",
+    "uiux": "UI/UX Design",
+    "branding": "Branding",
+    "seo": "SEO",
+    "contentWriting": "Content Writing",
+    "digitalMarketing": "Digital Marketing",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "language": "Language",
+    "profile": "Profile",
+    "logout": "Logout",
+    "adminDashboard": "Admin Dashboard"
+  },
+  "footer": {
+    "about": "Elevate your freelance business with our modern portfolio templates. Showcase your skills, attract clients, and grow your brand with style and confidence.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "email": "Email:",
+    "phone": "Phone:",
+    "address": "Address:",
+    "copyright": "Freelancer Portfolio Templates. All rights reserved."
+  },
+  "home1": {
+    "title": "Freelancer Portfolio - Home 1",
+    "metaDescription": "Freelancer Portfolio Home 1",
+    "heroTitle": "Elevate Your Freelance Brand",
+    "heroDesc": "Modern portfolio templates to showcase your skills, attract clients, and grow your business with confidence.",
+    "getStarted": "Get Started",
+    "badge": "Freelancer / Portfolio Expert",
+    "aboutTitle": "About Me",
+    "aboutDesc1": "I am a ",
+    "aboutPassion": "passionate freelancer",
+    "aboutDesc2": " with expertise in ",
+    "aboutDesc3": ", and ",
+    "aboutDesc4": " My mission is to help businesses and individuals build a strong online presence with beautiful, functional, and effective portfolio websites.",
+    "experienceTitle": "5+ Years Experience",
+    "experienceDesc": "Delivering quality freelance projects worldwide.",
+    "projectsTitle": "100+ Projects",
+    "projectsDesc": "Successfully completed for happy clients.",
+    "whyChooseUsTitle": "Why Choose Us?",
+    "whyChooseUsDesc1": "We are dedicated to delivering ",
+    "whyChooseUsExceptional": "exceptional digital services",
+    "whyChooseUsDesc2": " that help you stand out and succeed. Our team combines creativity, technical expertise, and a passion for client success.",
+    "whyChooseUsPoint1": "Personalized solutions for every client",
+    "whyChooseUsPoint2": "Cutting-edge design & technology",
+    "whyChooseUsPoint3": "Transparent communication & support",
+    "whyChooseUsPoint4": "Proven results & client satisfaction",
+    "letsWorkTogether": "Let's Work Together",
+    "whyChooseUsImageAlt": "Teamwork and Digital Services",
+    "awardsTitle": "Awards & Recognitions",
+    "award1": "Top Rated Freelancer 2025",
+    "award2": "Awards Honorable Mention",
+    "award3": "CSS Design Awards Winner",
+    "award4": "Featured in Web Designer Mag",
+    "processTitle": "How We Work",
+    "processStep1Title": "Discovery & Consultation",
+    "processStep1Desc": "We start by understanding your goals, audience, and vision to craft a tailored strategy.",
+    "processStep2Title": "Design & Development",
+    "processStep2Desc": "We create modern, responsive designs and develop robust solutions to bring your project to life.",
+    "processStep3Title": "Feedback & Revisions",
+    "processStep3Desc": "We collaborate with you to refine and perfect the work, ensuring it matches your expectations.",
+    "processStep4Title": "Launch & Support",
+    "processStep4Desc": "We launch your project and provide ongoing support to help you grow and succeed.",
+    "testimonialsTitle": "What Clients Say",
+    "testimonialsDesc": "Hear from some of my amazing clients and collaborators about their experience working with me.",
+    "testimonial1Name": "Sarah K.",
+    "testimonial1Role": "Startup Founder",
+    "testimonial1Text": "Absolutely thrilled with my new portfolio site! The process was smooth, creative, and the results exceeded my expectations.",
+    "testimonial2Name": "James L.",
+    "testimonial2Role": "Marketing Director",
+    "testimonial2Text": "Professional, responsive, and highly skilled. My brand now stands out online and I've seen a real boost in client inquiries.",
+    "testimonial3Name": "Priya S.",
+    "testimonial3Role": "Freelancer Coach",
+    "testimonial3Text": "A pleasure to work with! The attention to detail and creative vision made all the difference for my business.",
+    "testimonial4Name": "Alex M.",
+    "testimonial4Role": "Agency Owner",
+    "testimonial4Text": "Delivered on time, on budget, and with a unique flair. Highly recommended for anyone serious about their online presence!"
+  },
+  "home2": {
+    "title": "Freelancer Portfolio - Home 2",
+    "metaDescription": "Freelancer Portfolio Home 2",
+    "heroTitle": "Build Your Dream Portfolio",
+    "heroDesc": "Showcase your talent, attract clients, and grow your freelance business with a modern, professional portfolio.",
+    "getStarted": "Get Started",
+    "badge": "Freelancer / Portfolio Expert",
+    "aboutTitle": "About Me",
+    "aboutDesc1": "I am a ",
+    "aboutPassion": "creative freelancer",
+    "aboutDesc2": " with a passion for ",
+    "aboutDesc3": " and ",
+    "aboutDesc4": " My mission is to help you stand out online with a stunning, effective portfolio.",
+    "experienceTitle": "5+ Years Experience",
+    "experienceDesc": "Delivering quality freelance projects worldwide.",
+    "projectsTitle": "100+ Projects",
+    "projectsDesc": "Successfully completed for happy clients.",
+    "servicesTitle": "What I Offer",
+    "serviceWebDesc": "Modern, responsive websites tailored to your brand.",
+    "serviceBrandingDesc": "Unique visual identity to make your business memorable.",
+    "serviceMarketingDesc": "Grow your reach and attract more clients online.",
+    "portfolioTitle": "Portfolio",
+    "portfolioShowcase": "Showcase",
+    "portfolio1Title": "Creative Web App",
+    "portfolio1Desc": "A modern web application for a tech startup, featuring real-time collaboration and a sleek UI.",
+    "portfolio2Title": "Branding Project",
+    "portfolio2Desc": "A unique branding identity for a creative agency, blending bold colors and modern typography.",
+    "portfolio3Title": "Marketing Campaign",
+    "portfolio3Desc": "A digital marketing campaign that increased client engagement by 200% through creative strategy.",
+    "testimonialsTitle": "What Clients Say",
+    "testimonial1Name": "Emily R.",
+    "testimonial1Role": "Entrepreneur",
+    "testimonial1Text": "The new website brought my business to life! Professional, creative, and easy to work with.",
+    "testimonial2Name": "Michael B.",
+    "testimonial2Role": "Consultant",
+    "testimonial2Text": "Outstanding service and attention to detail. My portfolio stands out and attracts more clients.",
+    "testimonial3Name": "Sara K.",
+    "testimonial3Role": "Designer",
+    "testimonial3Text": "A fantastic experience! The site is beautiful and the process was smooth from start to finish.",
+    "contactTitle": "Let's Collaborate!",
+    "contactDesc": "Interested in working together on your next project? Whether you need a stunning website, a fresh brand identity, or a digital marketing boost, I'm here to help you shine online.",
+    "contactFormTitle": "Project Inquiry",
+    "contactFormDesc": "Tell me about your goals, timeline, and vision. I'll get back to you with ideas and a plan to make your project a success.",
+    "contactButton": "Contact Us"
+  },
+  "about": {
+    "title": "About Us - Freelancer Portfolio",
+    "metaDescription": "About Us - Freelancer Portfolio",
+    "heroTitle": "About Us",
+    "heroDesc": "Learn more about our journey, mission, and the creative minds behind the Freelancer Portfolio.",
+    "storyTitle": "Our Story",
+    "timeline": {
+      "2018": {
+        "title": "Founded",
+        "desc": "Our journey began with a vision to empower creative professionals and freelancers worldwide."
+      },
+      "2020": {
+        "title": "Community Grows",
+        "desc": "We grew into a thriving community, collaborating with talented clients and creatives across the globe."
+      },
+      "2023": {
+        "title": "Innovation & Impact",
+        "desc": "We continue to innovate, delivering impactful solutions and helping clients achieve their dreams."
+      }
+    },
+    "teamTitle": "Meet the Team",
+    "teamDesc": "Our diverse team blends creativity, strategy, and technology to deliver exceptional results. Get to know the people who make it all possible!",
+    "team": [
+      { "name": "Alex Morgan", "role": "Lead Designer" },
+      { "name": "Sophie Lee", "role": "Brand Strategist" },
+      { "name": "Chris Patel", "role": "Web Developer" }
+    ],
+    "valuesTitle": "Our Values",
+    "values": [
+      {
+        "title": "Creativity",
+        "desc": "Bold ideas, unique solutions, and pushing creative boundaries."
+      },
+      {
+        "title": "Collaboration",
+        "desc": "Working closely with clients and each other for the best results."
+      },
+      {
+        "title": "Excellence",
+        "desc": "Delivering top-quality work and exceeding expectations."
+      }
+    ],
+    "testimonialsTitle": "What Our Clients Say 💬",
+    "testimonialsDesc": "Real experiences. Real transformations. See how we’ve helped freelancers, startups, and creators shine online.",
+    "testimonials": [
+      {
+        "name": "Priya Sharma",
+        "quote": "Absolutely amazing work! The design perfectly matched my brand. The team listened to my ideas and delivered beyond my expectations.",
+        "company": "Freelance Designer, India"
+      },
+      {
+        "name": "Liam O'Connor",
+        "quote": "Professional, creative, and reliable. The final product helped me attract new clients and boosted my online presence significantly.",
+        "company": "Web Developer, Ireland"
+      },
+      {
+        "name": "Sara Kim",
+        "quote": "Their attention to detail is unmatched. My portfolio now looks clean, elegant, and super fast. Truly impressed with the results!",
+        "company": "Photographer, USA"
+      }
+    ],
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaDesc": "Let’s work together to create something amazing. Reach out and let’s make your vision a reality!",
+    "ctaButton": "Contact Us"
+  },
+  "services": {
+    "metaTitle": "Our Services - Freelancer Portfolio",
+    "metaDescription": "Explore our creative services for freelancers and businesses.",
+    "title": "Our Services",
+    "heroDesc": "Discover the creative solutions we offer to help you shine online.",
+    "whatWeOffer": "What We Offer",
+    "learnMore": "Learn More",
+    "webDesign": {
+      "title": "Web Design",
+      "desc": "Modern, responsive websites tailored to your brand."
+    },
+    "uiux": {
+      "title": "UI/UX Design",
+      "desc": "Intuitive interfaces and seamless user experiences."
+    },
+    "branding": {
+      "title": "Branding",
+      "desc": "Distinctive visual identities that stand out."
+    },
+    "development": {
+      "title": "Development",
+      "desc": "Robust, scalable web and app development."
+    },
+    "seoMarketing": {
+      "title": "SEO & Marketing",
+      "desc": "Grow your reach with smart SEO and digital marketing."
+    },
+    "contentCreation": {
+      "title": "Content Creation",
+      "desc": "Engaging copy, visuals, and media for your brand."
+    },
+    "successStories": {
+      "title": "Success Stories",
+      "desc": "See how we’ve helped clients achieve their goals with creative, impactful solutions.",
+      "stories": [
+        {
+          "title": "Brand Transformation for NovaTech",
+          "desc": "We reimagined NovaTech’s digital presence, resulting in a 60% increase in engagement and a fresh, modern brand identity."
+        },
+        {
+          "title": "E-Commerce Growth for UrbanStyle",
+          "desc": "A new e-commerce platform and marketing strategy led to a 2x boost in sales and a loyal customer base."
+        },
+        {
+          "title": "App Launch for FitTrackr",
+          "desc": "From concept to launch, we delivered a top-rated fitness app, praised for its design and usability."
+        }
+      ]
+    },
+    "process": {
+      "title": "Our Creative Process",
+      "desc": "Every project is a journey. Here’s how we turn your ideas into impactful digital experiences:",
+      "stepLabel": "Step",
+      "steps": [
+        {
+          "title": "Discovery",
+          "desc": "We listen, research, and understand your goals, audience, and vision."
+        },
+        {
+          "title": "Design & Ideation",
+          "desc": "We craft wireframes, moodboards, and creative concepts tailored to your brand."
+        },
+        {
+          "title": "Development",
+          "desc": "We build robust, scalable, and beautiful digital products using the latest tech."
+        },
+        {
+          "title": "Launch & Support",
+          "desc": "We launch, monitor, and support your project for ongoing success."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "desc": "We’re not just another agency. Here’s what makes us the perfect partner for your next project:",
+      "items": [
+        {
+          "title": "Creative Excellence",
+          "desc": "Award-winning designs and innovative solutions that set you apart."
+        },
+        {
+          "title": "Client-Centric",
+          "desc": "We listen, adapt, and deliver personalized experiences every time."
+        },
+        {
+          "title": "Full-Service Team",
+          "desc": "From strategy to launch, our experts cover every aspect of your project."
+        },
+        {
+          "title": "Ongoing Support",
+          "desc": "We’re here for you after launch, ensuring your continued success."
+        }
+      ]
+    }
+  },
+  "blog": {
+    "pageTitle": "Blog - Freelancer Portfolio",
+    "metaDescription": "Insights, tips, and stories for creative freelancers and agencies.",
+    "heroTitle": "Insights & Inspiration",
+    "heroDesc": "Tips, stories, and resources for creative freelancers and agencies.",
+    "latest": "Latest from the Blog",
+    "readMore": "Read More",
+    "clientTitle": "Client",
+    "clientHighlight": "Success Stories",
+    "story1": {
+      "title": "From Zero to Booked Out",
+      "desc": "A designer revamped their portfolio and landed 5 new clients in a month."
+    },
+    "story2": {
+      "title": "Remote Work, Real Results",
+      "desc": "A freelancer used productivity tools to double their project output remotely."
+    },
+    "story3": {
+      "title": "Branding That Wins",
+      "desc": "A creative’s new personal brand led to a feature in a top industry blog."
+    },
+    "howWeCurateTitle": "How We Curate Content",
+    "stepLabel": "Step",
+    "step1": {
+      "title": "Research",
+      "desc": "We track trends, interview experts, and listen to our community."
+    },
+    "step2": {
+      "title": "Write & Design",
+      "desc": "Our team crafts engaging articles and visuals for every post."
+    },
+    "step3": {
+      "title": "Publish & Share",
+      "desc": "We launch new content and promote it across our channels."
+    },
+    "testimonialsTitle": "What Readers Say",
+    "testimonials": {
+      "t1": {
+        "name": "Priya S.",
+        "text": "The blog is my go-to for fresh ideas and practical advice. Love the design!"
+      },
+      "t2": {
+        "name": "David L.",
+        "text": "Every post is packed with value. It’s helped me grow my freelance business."
+      },
+      "t3": {
+        "name": "Sara K.",
+        "text": "I always find something inspiring and actionable. Highly recommended!"
+      }
+    },
+    "newsletterTitle": "Stay Inspired",
+    "newsletterDesc": "Subscribe to our newsletter for the latest blog updates, tips, and exclusive resources.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "readings": {
+      "blog.1": {
+        "title": "Building a Standout Freelancer Portfolio",
+        "desc": "Discover how to craft a portfolio that attracts clients and showcases your unique skills as a freelancer.",
+        "date": "Oct 1, 2025"
+      },
+      "blog.2": {
+        "title": "Winning Clients: Outreach Strategies for 2025",
+        "desc": "Learn proven methods for connecting with clients and landing more freelance projects in a competitive market.",
+        "date": "Sep 20, 2025"
+      },
+      "blog.3": {
+        "title": "Remote Work Success: Tips for Freelancers",
+        "desc": "Master the art of remote work with productivity hacks, workspace ideas, and communication tips for freelancers.",
+        "date": "Sep 10, 2025"
+      }
+    }
+  },
+  "standout": {
+    "title": "Building a Standout Freelancer Portfolio | Blog",
+    "metaDescription": "Learn how to build a standout freelancer portfolio that attracts clients and showcases your unique skills.",
+    "heroTitle": "Building a Standout Freelancer Portfolio",
+    "by": "By",
+    "author": "Alex Creative",
+    "tags": "Portfolio, Freelancing, Tips",
+    "heroDesc": "Your portfolio is your digital handshake. Discover how to craft a portfolio that wins clients and sets you apart in a crowded market.",
+    "section": {
+      "whyTitle": "Why Your Portfolio Matters",
+      "intro": "In the world of freelancing, your portfolio is more than a collection of work—it’s your brand, your story, and your best sales tool. A standout portfolio not only showcases your skills but also builds trust and credibility with potential clients.",
+      "step1": {
+        "title": "1. Define Your Unique Value",
+        "desc": "Start by identifying what makes you different. Highlight your strengths and the problems you solve best."
+      },
+      "step2": {
+        "title": "2. Curate, Don’t Just Collect",
+        "desc": "Quality beats quantity. Select projects that reflect your best work and align with the clients you want to attract."
+      },
+      "step3": {
+        "title": "3. Show, Don’t Tell",
+        "desc": "Use visuals, case studies, and testimonials to bring your work to life."
+      },
+      "step4": {
+        "title": "4. Make It Easy to Navigate",
+        "desc": "A clean, intuitive layout helps visitors find what they’re looking for. Include a strong call-to-action."
+      },
+      "step5": {
+        "title": "5. Keep It Fresh",
+        "desc": "Update your portfolio regularly with new work, skills, and achievements."
+      },
+      "quote": "Your portfolio is the bridge between your talent and your next big opportunity.",
+      "ctaTitle": "Ready to Stand Out?",
+      "ctaDesc": "Building a standout freelancer portfolio takes time and intention, but the rewards are worth it. Start today, and let your work open doors to new possibilities.",
+      "mistakesTitle": "Common Portfolio Mistakes to Avoid",
+      "mistakes": {
+        "overload": {
+          "title": "Overloading with projects",
+          "desc": "Too many items can overwhelm visitors. Curate your best work."
+        },
+        "context": {
+          "title": "Lack of context",
+          "desc": "Don’t just show the final result—explain your process and the impact."
+        },
+        "outdated": {
+          "title": "Outdated work",
+          "desc": "Remove old or irrelevant projects to keep your portfolio fresh."
+        },
+        "cta": {
+          "title": "No clear call-to-action",
+          "desc": "Make it easy for clients to contact you or start a project."
+        }
+      },
+      "visualTitle": "Tips for Visual Storytelling",
+      "visual": {
+        "beforeAfter": "Use before-and-after images",
+        "beforeAfterDesc": "to highlight your impact.",
+        "videos": "Add short video walkthroughs",
+        "videosDesc": "for interactive or animated projects.",
+        "testimonials": "Incorporate client testimonials",
+        "testimonialsDesc": "with photos or logos for credibility.",
+        "process": "Show your process visually",
+        "processDesc": "with sketches, wireframes, or moodboards."
+      },
+      "inspirationTitle": "Inspiration: Portfolios That Shine",
+      "inspirationDesc": "Explore portfolios from top freelancers in your field and let their creativity inspire your own approach.",
+      "inspirationQuote": "A great portfolio is not just a gallery—it's a journey through your creative mind."
+    }
+  },
+  "clientOutreach": {
+    "title": "Winning Clients: Outreach Strategies for 2025 | Blog",
+    "metaDescription": "Discover the most effective outreach strategies for freelancers in 2025. Learn how to win clients with modern, creative, and data-driven approaches.",
+    "heroTitle": "Winning Clients: Outreach Strategies for 2025",
+    "by": "By",
+    "author": "Jordan Outreach",
+    "tags": "Outreach, Clients, Freelancing",
+    "heroDesc": "Discover the latest outreach strategies to win clients in 2025. Stand out, connect authentically, and grow your freelance business with proven, creative approaches.",
+    "section": {
+      "title": "The New Rules of Client Outreach",
+      "intro": "In 2025, client outreach is more creative, data-driven, and personal than ever. Winning clients means going beyond cold emails—it's about building real relationships, leveraging technology, and showing your unique value.",
+      "p1": {
+        "title": "1. Personalization at Scale",
+        "desc": "Use smart tools to research prospects and tailor every message. Personalized video intros and voice notes break through the noise."
+      },
+      "p2": {
+        "title": "2. Multi-Channel Approach",
+        "desc": "Combine email, LinkedIn, Twitter, and even voice or video DMs. Consistent, value-driven touchpoints build familiarity and trust."
+      },
+      "p3": {
+        "title": "3. Value-First Messaging",
+        "desc": "Lead with value. Share a quick audit, a relevant resource, or a creative idea tailored to their business."
+      },
+      "p4": {
+        "title": "4. Leverage Social Proof",
+        "desc": "Highlight recent wins, testimonials, and case studies to build credibility."
+      },
+      "p5": {
+        "title": "5. Automate, But Stay Human",
+        "desc": "Use automation for research and follow-ups, but keep your core messages human and authentic."
+      },
+      "quote": "The best outreach feels like a conversation, not a pitch.",
+      "creativeTitle": "Creative Outreach Ideas for 2025",
+      "idea1": {
+        "title": "Send a personalized video pitch",
+        "desc": "introducing yourself and your ideas."
+      },
+      "idea2": {
+        "title": "Create a mini audit or teardown",
+        "desc": "of their website or brand, and share actionable tips."
+      },
+      "idea3": {
+        "title": "Design a custom sample",
+        "desc": "(like a logo, landing page, or content snippet) to show your skills."
+      },
+      "idea4": {
+        "title": "Host a micro-webinar",
+        "desc": "or Q&A session for prospects in your niche."
+      },
+      "idea5": {
+        "title": "Send a voice note",
+        "desc": "via LinkedIn or Twitter for a more personal touch."
+      },
+      "metricsTitle": "Metrics That Matter",
+      "metric1": {
+        "title": "Response rate",
+        "desc": "How many prospects reply to your outreach?"
+      },
+      "metric2": {
+        "title": "Meeting booked rate",
+        "desc": "How many conversations turn into calls?"
+      },
+      "metric3": {
+        "title": "Conversion rate",
+        "desc": "How many leads become clients?"
+      },
+      "metric4": {
+        "title": "Referral rate",
+        "desc": "How many clients refer you to others?"
+      },
+      "finalTitle": "Final Thoughts: Outreach That Wins",
+      "finalDesc": "The most successful freelancers in 2025 combine creativity, empathy, and smart tools. Make every outreach message count—build relationships, not just close deals.",
+      "finalQuote": "Clients remember how you made them feel, not just what you offered."
+    }
+  },
+  "remoteWork": {
+    "title": "Remote Work Success: Tips for Freelancers | Blog",
+    "metaDescription": "Unlock remote work success with proven tips for freelancers. Boost productivity, stay motivated, and thrive from anywhere in 2025.",
+    "heroTitle": "Remote Work Success: Tips for Freelancers",
+    "by": "By",
+    "author": "Taylor Remote",
+    "tags": "Remote Work, Productivity, Freelancing",
+    "heroDesc": "Unlock your full potential as a remote freelancer. Discover proven tips to boost productivity, stay motivated, and thrive from anywhere in 2025.",
+    "section": {
+      "title": "Mastering Remote Work in 2025",
+      "intro": "Remote freelancing is here to stay, but thriving takes more than a laptop and Wi-Fi. Here are the top strategies for remote work success in 2025.",
+      "step1": {
+        "title": "1. Design Your Ideal Workspace",
+        "desc": "Invest in a comfortable, inspiring setup with good lighting and an ergonomic chair."
+      },
+      "step2": {
+        "title": "2. Set Boundaries & Routines",
+        "desc": "Define work hours and use rituals to separate work from life to avoid burnout."
+      },
+      "step3": {
+        "title": "3. Embrace Asynchronous Tools",
+        "desc": "Use tools like Notion, Trello, Loom, or Slack to work across time zones."
+      },
+      "step4": {
+        "title": "4. Prioritize Deep Work",
+        "desc": "Block distraction-free time for important tasks and turn off notifications."
+      },
+      "step5": {
+        "title": "5. Stay Connected & Visible",
+        "desc": "Share updates and regular check-ins to build trust and stay top-of-mind."
+      },
+      "quote": "The best remote freelancers are proactive, not just reactive.",
+      "bonusTitle": "Bonus Tips for Remote Success",
+      "bonus1": {
+        "title": "Batch your meetings",
+        "desc": "to keep large blocks of focus time."
+      },
+      "bonus2": {
+        "title": "Use time zone tools",
+        "desc": "to schedule across regions."
+      },
+      "bonus3": {
+        "title": "Invest in fast, reliable internet",
+        "desc": "—it’s your lifeline."
+      },
+      "bonus4": {
+        "title": "Take real breaks",
+        "desc": "—step outside, stretch, and recharge."
+      },
+      "mindsetTitle": "Mindset Matters",
+      "mindset1": {
+        "title": "Celebrate small wins",
+        "desc": "to stay motivated."
+      },
+      "mindset2": {
+        "title": "Connect with other freelancers",
+        "desc": "for support and inspiration."
+      },
+      "mindset3": {
+        "title": "Keep learning",
+        "desc": "—remote work evolves fast, so stay curious."
+      },
+      "finalTitle": "Final Thoughts: Thrive Anywhere",
+      "finalDesc": "Remote work is more than a trend—it’s a lifestyle. With the right habits, tools, and mindset, you can thrive as a freelancer from anywhere in the world.",
+      "finalQuote": "Freedom is not the ability to work from anywhere, but the power to do your best work everywhere."
+    }
+  },
+  "contact": {
+    "title": "Contact Us - Freelancer Portfolio",
+    "metaDescription": "Get in touch for freelance projects, collaborations, or questions.",
+    "heroTitle": "Let's Connect",
+    "heroDesc": "Ready to start your next project or have a question? Reach out below!",
+    "form": {
+      "title": "Contact Form",
+      "placeholderName": "Your Name",
+      "placeholderEmail": "Your Email",
+      "placeholderMessage": "Your Message",
+      "submit": "Send Message",
+      "successTitle": "Thank you! Your message has been sent.",
+      "successDesc": "We appreciate your interest and will get back to you soon.",
+      "error": "There was an error sending your message. Please try again later."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "emailValue": "hello@yourportfolio.com",
+      "location": "Location",
+      "locationValue": "Remote / Worldwide",
+      "social": "Social"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions"
+    },
+    "testimonialsTitle": "What Clients Say",
+    "cta": {
+      "title": "Ready to Start?",
+      "desc": "Let’s build something amazing together. Share your vision and let’s make it happen!",
+      "button": "Get Started"
+    },
+    "faqs": [
+      {
+        "q": "How quickly do you respond to inquiries?",
+        "a": "We aim to reply to all messages within 24 hours on business days."
+      },
+      {
+        "q": "Can I book a discovery call?",
+        "a": "Absolutely! Use the form or email us to schedule a free consultation."
+      },
+      {
+        "q": "What info should I include?",
+        "a": "Tell us about your project, goals, and any deadlines you have in mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Alex P.",
+        "text": "The team was responsive, creative, and delivered beyond expectations!",
+        "img": "https://randomuser.me/api/portraits/men/45.jpg"
+      },
+      {
+        "name": "Maya R.",
+        "text": "Excellent communication and beautiful results. Highly recommend!",
+        "img": "https://randomuser.me/api/portraits/women/65.jpg"
+      },
+      {
+        "name": "Samuel T.",
+        "text": "Their attention to detail and ability to bring my vision to life was incredible. I loved the collaborative process!",
+        "img": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      {
+        "name": "Priya S.",
+        "text": "A seamless experience from start to finish. The site looks stunning and works perfectly on all devices.",
+        "img": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "name": "Liam W.",
+        "text": "Creative, professional, and always on time. I couldn’t ask for a better partner for my freelance projects!",
+        "img": "https://randomuser.me/api/portraits/men/68.jpg"
+      }
+    ]
+  },
+  "webDesign": {
+    "metaTitle": "Web Design Services - Freelancer Portfolio",
+    "metaDescription": "Creative, modern web design services for freelancers and businesses. Unique layouts, responsive design, and beautiful user experiences.",
+    "heroTitle": "Web Design That Inspires",
+    "heroDesc": "Elevate your brand with creative, modern, and responsive web design tailored for freelancers and businesses.",
+    "heroButton": "Get Started",
+    "approachTitle": "Our Web Design Approach",
+    "approachDesc": "We blend creativity, usability, and the latest technology to craft websites that are both beautiful and effective.",
+    "approachPoints": [
+      "Custom, responsive layouts for every device",
+      "User-focused design for better engagement",
+      "Fast, accessible, and SEO-friendly code",
+      "Collaboration at every step"
+    ],
+    "featuredTitle": "Featured Web Design Projects",
+    "projects": [
+      {
+        "img": "/web-project-1.png",
+        "title": "Portfolio Website",
+        "desc": "A modern, responsive portfolio for a creative professional, featuring unique layouts and smooth animations."
+      },
+      {
+        "img": "/web-project-2.png",
+        "title": "E-Commerce Landing",
+        "desc": "A vibrant landing page for an online shop, optimized for conversions and mobile-first experiences."
+      },
+      {
+        "img": "/web-project-3.png",
+        "title": "Business Homepage",
+        "desc": "A clean, professional homepage for a growing business, with custom graphics and interactive features."
+      }
+    ],
+    "processTitle": "Our Web Design Process",
+    "processSteps": [
+      {
+        "title": "Discovery",
+        "desc": "We start by understanding your goals, audience, and vision to set a strong foundation."
+      },
+      {
+        "title": "Design & Prototype",
+        "desc": "We craft wireframes and high-fidelity designs, focusing on creativity, usability, and your brand."
+      },
+      {
+        "title": "Development",
+        "desc": "We build your site with modern code, ensuring speed, accessibility, and responsiveness."
+      },
+      {
+        "title": "Launch & Support",
+        "desc": "We launch your site and provide ongoing support, so you can focus on your business."
+      }
+    ],
+    "whyTitle": "Why Choose Us for Web Design?",
+    "whyFeatures": {
+      "items": [
+        {
+          "title": "Award-Winning Creativity",
+          "desc": "Our designs have been recognized for their originality and impact."
+        },
+        {
+          "title": "Proven Results",
+          "desc": "We deliver sites that drive engagement, conversions, and growth."
+        },
+        {
+          "title": "Modern, Clean Code",
+          "desc": "We use the latest tech for fast, accessible, and maintainable websites."
+        },
+        {
+          "title": "Ongoing Support",
+          "desc": "We’re here for you after launch, with updates and expert help."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Elevate Your Brand?",
+      "desc": "Let’s build something amazing together. Start your project today and make your vision a reality with a modern, high-impact portfolio.",
+      "button": "Start Your Project"
+    }
+  },
+  "uiUx": {
+    "metaTitle": "UI/UX Design Services - Freelancer Portfolio",
+    "metaDescription": "User-centered UI/UX design for web and mobile. Usability, delightful interactions, and conversion-focused interfaces.",
+    "heroTitle": "UI/UX Design That Delights",
+    "heroDesc": "Elevate your product with intuitive, beautiful, and user-centered UI/UX design for web, mobile, and SaaS.",
+    "heroButton": "Get a Free Consultation",
+    "philosophyTitle": "Our UI/UX Design Philosophy",
+    "philosophyDesc": "We believe in clarity, delight, and purpose. Every interface is crafted to be intuitive, visually engaging, and aligned with user needs.",
+    "philosophyPoints": [
+      "Human-centered, accessible design for all users",
+      "Pixel-perfect, scalable interfaces for any device",
+      "Seamless, delightful user journeys",
+      "Collaboration at every step"
+    ],
+    "featuredTitle": "Featured UI/UX Projects",
+    "projects": [
+      {
+        "img": "/uiux-project-1.png",
+        "title": "SaaS Dashboard Redesign",
+        "desc": "A data-rich SaaS dashboard reimagined for clarity, speed, and delight across all devices.",
+        "accent": "-top-8 -left-8 bg-gradient-to-br from-cyan-200 via-blue-200 to-yellow-100"
+      },
+      {
+        "img": "/uiux-project-2.png",
+        "title": "Mobile App Experience",
+        "desc": "A mobile-first app with intuitive navigation, playful microinteractions, and bold visuals.",
+        "accent": "-top-8 -right-8 bg-gradient-to-br from-yellow-100 via-cyan-200 to-blue-100"
+      },
+      {
+        "img": "/uiux-project-3.png",
+        "title": "E-Commerce UX Overhaul",
+        "desc": "A seamless shopping journey with frictionless checkout and conversion-optimized flows.",
+        "accent": "-bottom-8 -left-8 bg-gradient-to-br from-blue-100 via-cyan-200 to-yellow-100"
+      }
+    ],
+    "processTitle": "Our UI/UX Design Process",
+    "processSteps": [
+      {
+        "title": "Research & Discovery",
+        "desc": "We dive deep into your users, goals, and market to uncover insights that drive design decisions."
+      },
+      {
+        "title": "Wireframing & Prototyping",
+        "desc": "We sketch, wireframe, and prototype to explore ideas and validate flows before visual design."
+      },
+      {
+        "title": "Visual Design & Handoff",
+        "desc": "We create stunning, on-brand visuals and hand off pixel-perfect assets to development."
+      },
+      {
+        "title": "Testing & Iteration",
+        "desc": "We test with real users, gather feedback, and iterate for continuous improvement."
+      }
+    ],
+    "whyTitle": "Why Choose Us for UI/UX Design?",
+    "whyFeatures": {
+      "items": [
+        {
+          "title": "Award-Winning UX",
+          "desc": "Our work is recognized for innovation, usability, and impact."
+        },
+        {
+          "title": "User-First Approach",
+          "desc": "We design for real people, not just pixels or trends."
+        },
+        {
+          "title": "Modern, Scalable Systems",
+          "desc": "We create design systems that grow with your business."
+        },
+        {
+          "title": "Ongoing Partnership",
+          "desc": "We support you after launch with insights, updates, and care."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Transform Your Experience?",
+      "desc": "Let’s create something users love. Start your UI/UX project today.",
+      "button": "Start Your UI/UX Project"
+    }
+  },
+  "branding": {
+    "metaTitle": "Branding Services - Freelancer Portfolio",
+    "metaDescription": "Create a memorable visual identity that connects with your audience and elevates your brand.",
+    "heroTitle": "Branding That Resonates",
+    "heroDesc": "We craft strategic, visually striking brand identities that tell your story and attract the right clients.",
+    "heroButton": "Get a Free Quote",
+    "philosophyTitle": "Our Branding Philosophy",
+    "philosophyDesc": "We blend strategy, design and storytelling to create brands that feel authentic, distinct and future-ready.",
+    "philosophyPoints": [
+      "Research-driven brand strategy",
+      "Distinctive visual identity systems",
+      "Clear messaging and tone of voice",
+      "Flexible assets for digital & print"
+    ],
+    "featuredTitle": "Featured Branding Projects",
+    "projects": [
+      {
+        "img": "/branding-project-1.png",
+        "title": "Startup Identity",
+        "desc": "A bold visual system and messaging to help a tech startup launch with confidence.",
+        "accent": "-top-6 -left-6 bg-gradient-to-br from-pink-200 via-red-200 to-yellow-100"
+      },
+      {
+        "img": "/branding-project-2.png",
+        "title": "Creative Agency Rebrand",
+        "desc": "A refreshed logo, color system and collateral to position the agency for growth.",
+        "accent": "-top-6 -right-6 bg-gradient-to-br from-yellow-100 via-indigo-200 to-cyan-100"
+      },
+      {
+        "img": "/branding-project-3.png",
+        "title": "Personal Brand",
+        "desc": "A clean, expressive personal brand for a freelancer focused on premium clients.",
+        "accent": "-bottom-6 -left-6 bg-gradient-to-br from-blue-100 via-cyan-200 to-purple-100"
+      }
+    ],
+    "processTitle": "Branding Process",
+    "processSteps": [
+      {
+        "title": "Discovery",
+        "desc": "We uncover audience needs, competitor landscape and your core positioning."
+      },
+      {
+        "title": "Strategy",
+        "desc": "We define brand pillars, messaging hierarchy and a visual direction."
+      },
+      {
+        "title": "Design",
+        "desc": "We craft logos, palettes, typography and asset systems for digital and print."
+      },
+      {
+        "title": "Launch",
+        "desc": "We prepare roll-out assets and guidelines so your brand launches consistently."
+      }
+    ],
+    "whyTitle": "Why Choose Our Branding?",
+    "whyFeatures": {
+      "items": [
+        {
+          "title": "Strategic Thinking",
+          "desc": "We build brands grounded in business goals and audience insight."
+        },
+        {
+          "title": "Built-for-scale",
+          "desc": "Systems that grow with your product, team and channels."
+        },
+        {
+          "title": "Craft & Detail",
+          "desc": "Pixel- and print-perfect assets with clear rules for use."
+        },
+        {
+          "title": "Support After Launch",
+          "desc": "Guidelines and additional assets as your needs evolve."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Build Your Brand?",
+      "desc": "Let\u2019s craft a brand that tells your story and opens doors. Start with a short discovery call.",
+      "button": "Start Your Branding Project"
+    }
+  },
+  "seo": {
+    "hero": {
+      "title": "SEO That Gets You Found",
+      "desc": "Boost your visibility and grow your business. We deliver modern SEO strategies, technical expertise, and measurable results.",
+      "cta": "Get a Free SEO Audit"
+    },
+    "philosophy": {
+      "title": "Our SEO Philosophy",
+      "desc": "We believe in transparency, innovation, and results. Every SEO campaign is tailored to your goals and built for long-term growth.",
+      "points": [
+        "Transparent, data-driven strategies",
+        "Technical and on-page excellence",
+        "Content that ranks and converts",
+        "Partnership for ongoing growth"
+      ]
+    },
+    "projects": {
+      "title": "Featured SEO Projects",
+      "items": [
+        {
+          "title": "E-Commerce Growth",
+          "desc": "Doubled organic traffic for an online retailer with technical SEO and content strategy."
+        },
+        {
+          "title": "Local Business Domination",
+          "desc": "Ranked #1 for local keywords and increased leads for a service business."
+        },
+        {
+          "title": "Startup Launch Visibility",
+          "desc": "Launched a new SaaS with rapid indexation and high-converting landing pages."
+        }
+      ]
+    },
+    "process": {
+      "title": "Our SEO Process",
+      "steps": [
+        {
+          "title": "Audit & Research",
+          "desc": "We analyze your site, competitors, and keywords to uncover growth opportunities."
+        },
+        {
+          "title": "Technical & On-Page SEO",
+          "desc": "We optimize your site structure, speed, and content for search engines and users."
+        },
+        {
+          "title": "Content & Link Building",
+          "desc": "We create and promote content that attracts links, ranks, and converts."
+        },
+        {
+          "title": "Reporting & Growth",
+          "desc": "We track results, share insights, and refine your strategy for ongoing success."
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Choose Us for SEO?",
+      "features": [
+        {
+          "title": "Proven Results",
+          "desc": "Our clients see real growth in rankings, traffic, and revenue."
+        },
+        {
+          "title": "Cutting-Edge Techniques",
+          "desc": "We use the latest SEO tools and methods for maximum impact."
+        },
+        {
+          "title": "Full-Service SEO",
+          "desc": "From audits to content, we handle every aspect of your SEO."
+        },
+        {
+          "title": "Long-Term Partnership",
+          "desc": "We support your growth with ongoing insights and optimization."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Grow with SEO?",
+      "desc": "Let\u2019s boost your rankings and traffic. Start your SEO project today and unlock your business\u2019s full potential with modern, high-impact strategies.",
+      "button": "Start Your SEO Project"
+    }
+  },
+  "contentWriting": {
+    "hero": {
+      "title": "Words That Touch Hearts and Google",
+      "desc": "Boost your brand with content that connects, converts, and ranks. We craft words that tell your story and drive results.",
+      "cta": "Get a Free Content Audit"
+    },
+    "philosophy": {
+      "title": "Our Content Philosophy",
+      "desc": "We believe in clarity, creativity, and connection. Every word is chosen to attract, inform, and inspire your audience.",
+      "points": [
+        "Clear and persuasive storytelling",
+        "SEO-optimized and audience-focused writing",
+        "Content for every channel and format",
+        "Collaboration at every stage"
+      ]
+    },
+    "projects": {
+      "title": "Selected Content Projects",
+      "items": [
+        {
+          "title": "Brand Story",
+          "desc": "Developed a brand story and voice for a startup, resulting in increased engagement and loyalty."
+        },
+        {
+          "title": "SEO Blog Series",
+          "desc": "Created a high-performing blog series that ranked for competitive keywords and drove traffic growth."
+        },
+        {
+          "title": "Multichannel Campaign",
+          "desc": "Produced content for website, email, and social media—leading to a successful product launch."
+        }
+      ]
+    },
+    "process": {
+      "title": "Our Content Process",
+      "steps": [
+        {
+          "title": "Discovery & Briefing",
+          "desc": "We learn your goals, audience, and brand to lay the foundation for outstanding content."
+        },
+        {
+          "title": "Research & Ideation",
+          "desc": "We explore topics, keywords, and trends to develop a winning content strategy."
+        },
+        {
+          "title": "Writing & Editing",
+          "desc": "We write, edit, and polish content for clarity, creativity, and SEO impact."
+        },
+        {
+          "title": "Delivery & Optimization",
+          "desc": "We deliver, optimize, and support your content for maximum results."
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Choose Us for Content Writing?",
+      "features": [
+        {
+          "title": "Award-Winning Copy",
+          "desc": "Our writing is recognized for creativity, clarity, and impact."
+        },
+        {
+          "title": "SEO & Conversion Focus",
+          "desc": "We blend creativity with strategy for content that ranks and sells."
+        },
+        {
+          "title": "Multi-Channel Expertise",
+          "desc": "We create content for web, email, social, and more."
+        },
+        {
+          "title": "Ongoing Partnership",
+          "desc": "We support your content needs with insights, updates, and care."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Elevate Your Content?",
+      "desc": "Let\u0027s tell your story and grow your brand. Start your writing project today and make your message unforgettable.",
+      "button": "Start Your Content Project"
+    }
+  },
+  "digitalMarketing": {
+    "hero": {
+      "title": "Digital Marketing That Delivers",
+      "desc": "Grow your business with creative campaigns, data-driven strategies, and measurable results. We help you reach, engage, and convert your audience.",
+      "cta": "Get a Free Marketing Audit"
+    },
+    "philosophy": {
+      "title": "Our Marketing Philosophy",
+      "desc": "We believe in creativity, data, and growth. Every campaign is designed to inspire, engage, and deliver measurable results."
+    },
+    "philosophyPoints": [
+      "Creative, multi-channel campaigns",
+      "Data-driven targeting & optimization",
+      "Engaging content & visuals",
+      "Collaboration at every step"
+    ],
+    "projects": {
+      "title": "Featured Marketing Projects",
+      "items": [
+        {
+          "title": "Omni-Channel Launch",
+          "desc": "Launched a new product with integrated campaigns across web, social, and email."
+        },
+        {
+          "title": "Lead Generation Boost",
+          "desc": "Doubled qualified leads for a B2B client with targeted ads and landing pages."
+        },
+        {
+          "title": "Brand Awareness Campaign",
+          "desc": "Increased brand reach and engagement with creative social and video content."
+        }
+      ]
+    },
+    "process": {
+      "title": "Our Marketing Process",
+      "steps": [
+        {
+          "title": "Discovery & Strategy",
+          "desc": "We learn your goals, audience, and market to build a winning strategy."
+        },
+        {
+          "title": "Campaign Creation",
+          "desc": "We design and launch creative campaigns across the right channels."
+        },
+        {
+          "title": "Optimization & Analytics",
+          "desc": "We monitor, test, and optimize for the best results and ROI."
+        },
+        {
+          "title": "Reporting & Growth",
+          "desc": "We share insights, report on KPIs, and help you scale your success."
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Choose Us for Digital Marketing?",
+      "items": [
+        {
+          "title": "Award-Winning Campaigns",
+          "desc": "Our campaigns are recognized for creativity, reach, and results."
+        },
+        {
+          "title": "Data-Driven Approach",
+          "desc": "We use analytics and insights to maximize your ROI."
+        },
+        {
+          "title": "Full-Service Expertise",
+          "desc": "From ads to content, we handle every aspect of your marketing."
+        },
+        {
+          "title": "Ongoing Partnership",
+          "desc": "We support your growth with insights, updates, and care."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Grow Your Business?",
+      "desc": "Let\u0027s launch your next campaign. Start your digital marketing project today and unlock your business\u0027s full potential.",
+      "button": "Start Your Marketing Project"
+    }
+  }
+}
