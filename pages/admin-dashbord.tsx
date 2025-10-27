@@ -184,9 +184,15 @@ const AdminDashboard = () => {
             <table className="min-w-full text-left text-xs sm:text-sm md:text-base">
               <thead>
                 <tr className="border-b border-blue-200 dark:border-blue-800">
-                  <th className="py-2 px-2 sm:px-4">{t("admin.table.email")}</th>
-                  <th className="py-2 px-2 sm:px-4">{t("admin.table.loginTime")}</th>
-                  <th className="py-2 px-2 sm:px-4">{t("admin.table.logoutTime")}</th>
+                  <th className="py-2 px-2 sm:px-4">
+                    {t("admin.table.email")}
+                  </th>
+                  <th className="py-2 px-2 sm:px-4">
+                    {t("admin.table.loginTime")}
+                  </th>
+                  <th className="py-2 px-2 sm:px-4">
+                    {t("admin.table.logoutTime")}
+                  </th>
                 </tr>
               </thead>
               <tbody>

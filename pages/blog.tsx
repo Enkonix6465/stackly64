@@ -60,7 +60,7 @@ const BlogPage = () => {
                 <div key={blog.id} className="group">
                   <div className="relative rounded-3xl border border-cyan-100 dark:border-cyan-900 bg-white/80 dark:bg-gray-900/80 shadow-xl hover:scale-105 hover:shadow-2xl transition-all duration-300 overflow-hidden flex flex-col h-full">
                     <div className="relative w-full h-58 overflow-hidden">
-                      <Image
+                      <img
                         width={150}
                         height={150}
                         src={blog.img}
@@ -295,7 +295,7 @@ const BlogPage = () => {
                   className="relative bg-white/80 dark:bg-gray-900/80 rounded-3xl border border-cyan-100 dark:border-cyan-900 p-8 flex-1 flex flex-col items-center shadow-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl min-w-[260px] max-w-[340px] mx-auto"
                 >
                   <span className="absolute -top-8 left-1/2 -translate-x-1/2 w-20 h-20 bg-gradient-to-br from-cyan-200 via-blue-200 to-yellow-100 dark:from-cyan-900 dark:via-blue-950 dark:to-yellow-900 rounded-full blur-2xl opacity-20 pointer-events-none"></span>
-                  <Image
+                  <img
                     src={
                       [
                         "https://randomuser.me/api/portraits/women/68.jpg",

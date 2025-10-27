@@ -44,7 +44,7 @@ const Home2 = () => {
           <div className="relative   mx-auto flex flex-col md:flex-row items-center gap-10 md:gap-16">
             <div className=" flex-1   flex flex-col items-center md:items-end z-10">
               <div className="relative md:ml-8 shadow-2xl">
-                <Image
+                <img
                   src="https://plus.unsplash.com/premium_photo-1725472983249-01c107da16d8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Avatar"
                   width={1000}
@@ -352,7 +352,7 @@ const Home2 = () => {
                       <div
                         className={`${card.accent} rounded-full blur-2xl opacity-30 pointer-events-none`}
                       ></div>
-                      <Image
+                      <img
                         src={card.image}
                         alt={card.alt}
                         width={400}
@@ -464,7 +464,7 @@ const Home2 = () => {
                       />
                     </svg>
                   </span>
-                  <Image
+                  <img
                     src={t.avatar}
                     alt={t.name}
                     width={72}

@@ -473,7 +473,7 @@ function TestimonialCarousel({ testimonials }: TestimonialCarouselProps) {
             >
               <span className="mb-6 w-24 h-24 flex items-center justify-center rounded-full bg-gradient-to-br from-cyan-200 via-blue-200 to-yellow-100 dark:from-cyan-900 dark:via-blue-950 dark:to-yellow-900 shadow-lg border-4 border-cyan-200 dark:border-cyan-800 overflow-hidden">
                 {t.img ? (
-                  <Image
+                  <img
                     src={t.img}
                     width={96}
                     height={96}

@@ -45,7 +45,7 @@ const ContentWriting = () => {
             {/* Illustration or Accent */}
             <div className="flex-1 flex justify-center items-center">
               <div className="size-full rounded-3xl bg-gradient-to-br from-cyan-200 via-blue-100 to-yellow-100 dark:from-cyan-900 dark:via-blue-950 dark:to-yellow-900 shadow-2xl flex items-center justify-center relative overflow-hidden group transition-transform duration-500 hover:scale-105">
-                <Image
+                <img
                   src="https://images.pexels.com/photos/1766604/pexels-photo-1766604.jpeg"
                   alt="Content Writing Illustration"
                   width={200}
@@ -117,8 +117,7 @@ const ContentWriting = () => {
                       key={i}
                       className="bg-white/90 dark:bg-gray-900/90 rounded-3xl p-8 border border-cyan-100 dark:border-cyan-900 shadow-xl flex flex-col items-center group hover:scale-[1.03] transition-transform duration-300 relative overflow-hidden"
                     >
-                       
-                      <Image
+                      <img
                         src={p.img}
                         width={120}
                         height={120}

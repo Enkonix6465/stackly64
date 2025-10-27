@@ -59,14 +59,13 @@ const RemoteWorkTipsBlog = () => {
             </span>
           </div>
           <div className="w-full flex justify-center mb-6">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/03/cb/36/03cb36b3ed3d5377618ab6f0daba46c9.jpg"
               alt="Remote Work Success: Tips for Freelancers"
               width={600}
               height={288}
               className="rounded-2xl shadow-xl max-h-72 object-cover border border-cyan-100 dark:border-cyan-900 w-full"
               style={{ maxWidth: "600px", width: "100%" }}
-              priority
             />
           </div>
           <p className="text-xl md:text-2xl text-blue-800 dark:text-blue-200 mb-2 max-w-2xl mx-auto">

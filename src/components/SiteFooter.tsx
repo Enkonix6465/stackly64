@@ -91,7 +91,7 @@ const SiteFooter = () => {
         {/* Logo & About */}
         <div>
           <div className="flex items-center gap-2 mb-4">
-            <Image
+            <img
               src="https://i.postimg.cc/DwdH9gv8/logo-stackly.png"
               alt="Logo"
               width={100}

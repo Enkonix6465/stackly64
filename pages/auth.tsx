@@ -137,7 +137,7 @@ const AuthPage = () => {
         </div>
         <div className="w-full max-w-md bg-white/90 dark:bg-gray-900/90 rounded-xl shadow-2xl p-8">
           <div className="flex justify-center mb-8">
-            <Image
+            <img
               src={"https://i.postimg.cc/DwdH9gv8/logo-stackly.png"}
               alt={""}
               width={150}

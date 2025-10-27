@@ -266,7 +266,7 @@ const AboutUs = () => {
                     <span
                       className={`absolute -top-2 -left-2 w-24 h-24 rounded-full bg-gradient-to-br ${member.accent} blur-2xl opacity-30 pointer-events-none`}
                     ></span>
-                    <Image
+                    <img
                       src={member.avatar}
                       alt={member.name}
                       width={96}
@@ -502,7 +502,7 @@ const AboutUs = () => {
 
                   {/* Avatar */}
                   <div className="mt-8 mb-4">
-                    <Image
+                    <img
                       src={tst.avatar}
                       alt={tst.name}
                       width={90}

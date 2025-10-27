@@ -149,7 +149,7 @@ const SiteHeader = () => {
             href="/home1"
             className="flex items-center gap-2 text-yellow-300 font-extrabold text-2xl tracking-wide drop-shadow-lg"
           >
-            <Image
+            <img
               src={"https://i.postimg.cc/DwdH9gv8/logo-stackly.png"}
               width={100}
               height={100}

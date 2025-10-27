@@ -255,7 +255,7 @@ const ServicesPage = () => {
                 >
                   <div className="flex-1 flex flex-col justify-center items-end md:items-center">
                     <div className="relative w-40 h-40 md:w-56 md:h-56 rounded-3xl overflow-hidden shadow-2xl border-4 border-cyan-100 dark:border-cyan-900 bg-white/60 dark:bg-gray-900/60">
-                      <Image
+                      <img
                         src={story.img}
                         alt={story.title}
                         width={224}

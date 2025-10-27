@@ -45,7 +45,7 @@ const SEO = () => {
             {/* Illustration or Accent */}
             <div className="flex-1 flex justify-center items-center">
               <div className="size-full rounded-3xl bg-gradient-to-br from-cyan-200 via-blue-100 to-yellow-100 dark:from-cyan-900 dark:via-blue-950 dark:to-yellow-900 shadow-2xl flex items-center justify-center relative overflow-hidden group transition-transform duration-500 hover:scale-105">
-                <Image
+                <img
                   src="https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg"
                   alt="SEO Illustration"
                   width={200}
@@ -127,7 +127,7 @@ const SEO = () => {
                       <span
                         className={`absolute   w-20 h-20 rounded-full blur-2xl opacity-30 pointer-events-none group-hover:opacity-50 transition-opacity`}
                       ></span>
-                      <Image
+                      <img
                         src={p.img}
                         width={120}
                         height={120}

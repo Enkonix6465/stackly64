@@ -59,14 +59,13 @@ const StandoutPortfolioBlog = () => {
             </span>
           </div>
           <div className="w-full flex justify-center mb-6">
-            <Image
+            <img
               src="https://plus.unsplash.com/premium_photo-1726729261718-ab541c498642?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
               alt="Standout Freelancer Portfolio"
               width={600}
               height={288}
               className="rounded-2xl shadow-xl max-h-72 object-cover border border-cyan-100 dark:border-cyan-900 w-full"
               style={{ maxWidth: "600px", width: "100%" }}
-              priority
             />
           </div>
           <p className="text-xl md:text-2xl text-blue-800 dark:text-blue-200 mb-2 max-w-2xl mx-auto">

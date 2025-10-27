@@ -53,7 +53,7 @@ const Home1 = () => {
               {/* Avatar and badge */}
               <div className="flex flex-col items-center md:items-start">
                 <div className="rounded-2xl overflow-hidden border-4 border-cyan-400 shadow-xl mb-4 bg-white dark:bg-gray-900 flex items-center justify-center">
-                  <Image
+                  <img
                     src="https://i.pinimg.com/736x/b4/cf/c9/b4cfc93dd4aaa0e8d697ba95773a06e4.jpg"
                     alt="Avatar"
                     className=" size-[300px] object-cover object-bottom"
@@ -270,16 +270,14 @@ const Home1 = () => {
             {/* Image */}
             <div className="flex-1 flex justify-center" data-aos="fade-left">
               <div className="relative w-full max-w-md aspect-[4/3] rounded-3xl overflow-hidden shadow-2xl border-4 border-cyan-200 dark:border-cyan-800 bg-white dark:bg-gray-900">
-                <Image
+                <img
                   src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80"
                   alt={t(
                     "home1.whyChooseUsImageAlt",
                     "Teamwork and Digital Services",
                   )}
-                  fill
                   className="object-cover object-center"
                   sizes="(max-width: 768px) 100vw, 400px"
-                  priority
                 />
                 {/* Decorative overlay */}
                 <div className="absolute inset-0 bg-gradient-to-t from-cyan-900/30 via-transparent to-yellow-200/10 pointer-events-none"></div>
@@ -823,7 +821,7 @@ const Home1 = () => {
               >
                 {/* Floating Avatar */}
                 <div className="absolute -top-10 left-1/2 -translate-x-1/2 z-10">
-                  <Image
+                  <img
                     src={t.avatar}
                     alt={t.name}
                     width={72}
